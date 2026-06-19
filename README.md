@@ -21,6 +21,4 @@
 ### 🚀 Featured Projects
 
 - **QuoteAI** — 4-agent LangGraph + FastAPI + XGBoost insurance underwriting pipeline; presented at GITAM Hackathon 2026
-- **MRI-based ASD Screening** — CNN achieving 82.32% accuracy and AUC-ROC 0.878 on structural MRI data
-- **Drone Detection Pipeline** — LSTM trajectory prediction + threat classification agents; real-time 360° system (PyTorch, FastAPI, MQTT)
-- **RNA Methylation Prediction** — Novel Dual-Branch ResNet with contrastive learning; outperformed SOTA on real GEO datasets
+- **MRI-based ASD Screening** — CNN achieving 82.32% accuracy and AUC-ROC 0.878 on structural MRI dat
