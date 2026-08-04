@@ -8,7 +8,7 @@ Ask me about PyTorch, LangGraph, reinforcement learning, or LeetCode patterns!
 
 ### Technologies & Tools
 
-**Languages:** Python, Java
+**Languages:** Python
 **ML/DL:** PyTorch, TensorFlow/Keras, scikit-learn, Stable-Baselines3
 **Agentic / LLM:** LangGraph, FastAPI, LangChain
 **Computer Vision:** OpenCV, YOLO, DeepSORT, MediaPipe
