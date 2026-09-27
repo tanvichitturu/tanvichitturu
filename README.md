@@ -20,4 +20,4 @@ Ask me about PyTorch, LangGraph, reinforcement learning, or LeetCode patterns!
 ### Featured Projects
 
 - **QuoteAI** — 4-agent LangGraph + FastAPI + XGBoost insurance underwriting pipeline; presented at GITAM Hackathon 2026
-- **MRI-based ASD Screening** — CNN achieving 82.32% accuracy and AUC-ROC 0.878 on structural MRI dat
+- **MRI-based ASD Screening** — CNN achieving 82.32% accuracy and AUC-ROC 0.878 on structural MRI data
