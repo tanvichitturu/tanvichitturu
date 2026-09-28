@@ -34,19 +34,6 @@ Git, Docker, VS Code, Google Colab, MQTT
 
 ---
 
-### Experience
-
-**AI/ML Intern — SANSI RF and Communication Systems**
-
-Worked on an **AI-powered drone detection and decision system**, focusing on trajectory prediction and multi-agent coordination.
-
-* Designed and evaluated a **Social Force Transformer** for drone trajectory prediction, achieving a best ADE of **1.9569** and improving over the Kalman Filter baseline by approximately **19%**.
-* Built a **Coordinator Agent using LangGraph and Llama 3.1 via Groq** for autonomous multi-agent decision orchestration.
-* Integrated the system using **FastAPI and MQTT** for real-time communication.
-* Worked across the detection-to-decision pipeline and handled system integration and testing.
-
----
-
 ### Featured Projects
 
 #### QuoteAI — Multi-Agent AI Insurance Underwriting
